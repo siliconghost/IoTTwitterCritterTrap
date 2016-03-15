@@ -1,3 +1,5 @@
+#require "Twitter.class.nut:1.2.1"
+
 /**
  * @file    iot_crittertrap.agent.net
  * @brief   Agent code for the IoT Twitter Critter Trap
@@ -13,7 +15,6 @@
  * Relies on the Twitter library written by Electric Imp.
  */
  
-#require "Twitter.class.nut:1.2.1"
 
 /* INFO YOU NEED FROM TWITTER */
 const API_KEY = "YOUR CONSUMER KEY (API KEY)";
